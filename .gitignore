@@ -1,0 +1,11 @@
+.dll
+.idea/
+bin/
+obj/
+.xml
+packages/
+*.user
+.DS_Store
+.vs/
+logs/
+venv/
