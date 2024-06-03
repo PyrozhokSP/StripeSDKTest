@@ -1,0 +1,29 @@
+<dependencies>
+  <compile
+      roots=":@@:unityLibrary::release,org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name=":@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </compile>
+  <package
+      roots=":@@:unityLibrary::release,__local_aars__:/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar,org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name=":@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </package>
+</dependencies>

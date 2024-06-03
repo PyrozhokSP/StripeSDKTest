@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro.Tests", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.UI.EditorTests", "UnityEditor.UI.EditorTests.csproj", "{a0f5ab56-4dec-94dc-def8-32133be115cd}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{be765eda-1e13-849f-811f-07b6ace54ff5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,6 +188,8 @@ Global
 		{a40a2100-fb2c-728a-cc9d-7083ce3ea123}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{a0f5ab56-4dec-94dc-def8-32133be115cd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{a0f5ab56-4dec-94dc-def8-32133be115cd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{be765eda-1e13-849f-811f-07b6ace54ff5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{be765eda-1e13-849f-811f-07b6ace54ff5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

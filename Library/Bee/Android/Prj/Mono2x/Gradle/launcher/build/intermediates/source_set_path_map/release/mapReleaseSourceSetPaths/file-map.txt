@@ -1,0 +1,8 @@
+com.DefaultCompany.StripeSDKEmptyTest.launcher-pngs-0 /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/pngs/release
+com.DefaultCompany.StripeSDKEmptyTest.launcher-resValues-1 /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/resValues/release
+com.DefaultCompany.StripeSDKEmptyTest.launcher-packageReleaseResources-2 /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.DefaultCompany.StripeSDKEmptyTest.launcher-packageReleaseResources-3 /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.DefaultCompany.StripeSDKEmptyTest.launcher-release-4 /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/merged_res/release/mergeReleaseResources
+com.DefaultCompany.StripeSDKEmptyTest.launcher-main-5 /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res
+com.DefaultCompany.StripeSDKEmptyTest.launcher-release-6 /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/release/res
+com.DefaultCompany.StripeSDKEmptyTest.launcher-release-7 /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/packageReleaseResources

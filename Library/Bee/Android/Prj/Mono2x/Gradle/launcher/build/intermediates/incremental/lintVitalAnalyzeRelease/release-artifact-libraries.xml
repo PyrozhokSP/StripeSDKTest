@@ -1,0 +1,28 @@
+<libraries>
+  <library
+      name=":@@:unityLibrary::release"
+      jars="/Users/vadympyrozhok/.gradle/caches/transforms-4/a95e447d52882b224483e8486ef80148/transformed/out/jars/classes.jar:/Users/vadympyrozhok/.gradle/caches/transforms-4/a95e447d52882b224483e8486ef80148/transformed/out/jars/libs/R.jar:/Users/vadympyrozhok/.gradle/caches/transforms-4/a95e447d52882b224483e8486ef80148/transformed/out/jars/libs/unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      partialResultsDir="/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      folder="/Users/vadympyrozhok/.gradle/caches/transforms-4/a95e447d52882b224483e8486ef80148/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar"
+      jars="/Users/vadympyrozhok/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.24/9928532f12c66ad816a625b3f9984f8368ca6d2b/kotlin-stdlib-1.9.24.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.9.24"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="/Users/vadympyrozhok/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+  <library
+      name="__local_aars__:/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+</libraries>
