@@ -1,0 +1,550 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.StripeSDKEmptyTest"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+10        android:targetSdkVersion="34" />
+11
+12    <supports-screens
+12-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-67
+19-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:22-64
+20
+21    <uses-feature android:glEsVersion="0x00030000" />
+21-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-54
+21-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:19-51
+22    <uses-feature
+22-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:5-13:36
+23        android:name="android.hardware.vulkan.version"
+23-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:9-55
+24        android:required="false" />
+24-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-33
+25    <uses-feature
+25-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:5-16:36
+26        android:name="android.hardware.touchscreen"
+26-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:9-52
+27        android:required="false" />
+27-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:9-33
+28    <uses-feature
+28-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:5-19:36
+29        android:name="android.hardware.touchscreen.multitouch"
+29-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:9-63
+30        android:required="false" />
+30-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-33
+31    <uses-feature
+31-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:5-22:36
+32        android:name="android.hardware.touchscreen.multitouch.distinct"
+32-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:9-72
+33        android:required="false" /> <!-- See https://developer.android.com/training/package-visibility/declaring for more details. -->
+33-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:9-33
+34    <queries>
+34-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:8:5-12:15
+35
+36        <!-- Added to check if Chrome is installed for browser-based payment authentication (e.g. 3DS1). -->
+37        <package android:name="com.android.chrome" />
+37-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:11:9-54
+37-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:11:18-51
+38        <!-- Needs to be explicitly declared on Android R+ -->
+39        <package android:name="com.google.android.apps.maps" />
+39-->[com.google.android.gms:play-services-maps:18.0.2] /Users/vadympyrozhok/.gradle/caches/transforms-4/24aff1be4fe6b5e45f50a2d24e05f6a1/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+39-->[com.google.android.gms:play-services-maps:18.0.2] /Users/vadympyrozhok/.gradle/caches/transforms-4/24aff1be4fe6b5e45f50a2d24e05f6a1/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+40    </queries>
+41
+42    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+42-->[com.stripe:stripe-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/9f326a8ed8fe7123422cb5b56990d265/transformed/stripe-core-20.44.1/AndroidManifest.xml:7:5-79
+42-->[com.stripe:stripe-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/9f326a8ed8fe7123422cb5b56990d265/transformed/stripe-core-20.44.1/AndroidManifest.xml:7:22-76
+43
+44    <permission
+44-->[androidx.core:core:1.13.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/7fea2de431a7e85867d632152bda5b7b/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+45        android:name="com.DefaultCompany.StripeSDKEmptyTest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+45-->[androidx.core:core:1.13.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/7fea2de431a7e85867d632152bda5b7b/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+46        android:protectionLevel="signature" />
+46-->[androidx.core:core:1.13.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/7fea2de431a7e85867d632152bda5b7b/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+47
+48    <uses-permission android:name="com.DefaultCompany.StripeSDKEmptyTest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+48-->[androidx.core:core:1.13.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/7fea2de431a7e85867d632152bda5b7b/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+48-->[androidx.core:core:1.13.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/7fea2de431a7e85867d632152bda5b7b/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+49
+50    <application
+50-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-83
+51        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+51-->[androidx.core:core:1.13.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/7fea2de431a7e85867d632152bda5b7b/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+52        android:debuggable="true"
+53        android:extractNativeLibs="true"
+54        android:icon="@mipmap/app_icon"
+54-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:49-80
+55        android:label="@string/app_name"
+55-->/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:16-48
+56        android:testOnly="true" >
+57        <meta-data
+57-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:9-27:33
+58            android:name="unity.splash-mode"
+58-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:13-45
+59            android:value="0" />
+59-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-30
+60        <meta-data
+60-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:9-30:36
+61            android:name="unity.splash-enable"
+61-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-47
+62            android:value="True" />
+62-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-33
+63        <meta-data
+63-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:9-33:36
+64            android:name="unity.launch-fullscreen"
+64-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:13-51
+65            android:value="True" />
+65-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:13-33
+66        <meta-data
+66-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:9-36:36
+67            android:name="unity.render-outside-safearea"
+67-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:13-57
+68            android:value="True" />
+68-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:13-33
+69        <meta-data
+69-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:37:9-39:50
+70            android:name="notch.config"
+70-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:13-40
+71            android:value="portrait|landscape" />
+71-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:13-47
+72        <meta-data
+72-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:9-42:36
+73            android:name="unity.auto-report-fully-drawn"
+73-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-57
+74            android:value="true" />
+74-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:13-33
+75
+76        <activity
+76-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:9-65:20
+77            android:name="com.unity3d.player.UnityPlayerActivity"
+77-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:13-66
+78            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+78-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:46:13-194
+79            android:exported="true"
+79-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:47:13-36
+80            android:hardwareAccelerated="false"
+80-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:48:13-48
+81            android:launchMode="singleTask"
+81-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:49:13-44
+82            android:resizeableActivity="false"
+82-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:50:13-47
+83            android:screenOrientation="fullUser"
+83-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:51:13-49
+84            android:theme="@style/UnityThemeSelector" >
+84-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:52:13-54
+85            <intent-filter>
+85-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:53:13-57:29
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:54:17-77
+86-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:54:27-74
+87
+88                <action android:name="android.intent.action.MAIN" />
+88-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:56:17-69
+88-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:56:25-66
+89            </intent-filter>
+90
+91            <meta-data
+91-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:59:13-61:40
+92                android:name="unityplayer.UnityActivity"
+92-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:60:17-57
+93                android:value="true" />
+93-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:61:17-37
+94            <meta-data
+94-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:62:13-64:40
+95                android:name="notch_support"
+95-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:63:17-45
+96                android:value="true" />
+96-->[:unityLibrary] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:64:17-37
+97        </activity>
+98        <activity
+98-->[:unityLibrary:stripe.androidlib] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/stripe.androidlib/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-10:64
+99            android:name="com.azazellj.unity.stripe.ui.paymentsheet.complete_flow.CompleteFlowActivity"
+99-->[:unityLibrary:stripe.androidlib] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/stripe.androidlib/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-104
+100            android:theme="@android:style/Theme.Translucent" />
+100-->[:unityLibrary:stripe.androidlib] /Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/stripe.androidlib/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-61
+101        <activity
+101-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:8:9-12:58
+102            android:name="com.stripe.android.paymentsheet.PaymentSheetActivity"
+102-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:9:13-80
+103            android:exported="false"
+103-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:10:13-37
+104            android:theme="@style/StripePaymentSheetDefaultTheme"
+104-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:11:13-66
+105            android:windowSoftInputMode="adjustResize" />
+105-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:12:13-55
+106        <activity
+106-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:13:9-17:58
+107            android:name="com.stripe.android.paymentsheet.PaymentOptionsActivity"
+107-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:14:13-82
+108            android:exported="false"
+108-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:15:13-37
+109            android:theme="@style/StripePaymentSheetDefaultTheme"
+109-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:16:13-66
+110            android:windowSoftInputMode="adjustResize" />
+110-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:17:13-55
+111        <activity
+111-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:18:9-22:58
+112            android:name="com.stripe.android.customersheet.CustomerSheetActivity"
+112-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:19:13-82
+113            android:exported="false"
+113-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:20:13-37
+114            android:theme="@style/StripePaymentSheetDefaultTheme"
+114-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:21:13-66
+115            android:windowSoftInputMode="adjustResize" />
+115-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:22:13-55
+116        <activity
+116-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:23:9-27:58
+117            android:name="com.stripe.android.paymentsheet.addresselement.AddressElementActivity"
+117-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:24:13-97
+118            android:exported="false"
+118-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:25:13-37
+119            android:theme="@style/StripePaymentSheetDefaultTheme"
+119-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:26:13-66
+120            android:windowSoftInputMode="adjustResize" />
+120-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:27:13-55
+121        <activity
+121-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:28:9-31:69
+122            android:name="com.stripe.android.paymentsheet.paymentdatacollection.bacs.BacsMandateConfirmationActivity"
+122-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:29:13-118
+123            android:exported="false"
+123-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:30:13-37
+124            android:theme="@style/StripePaymentSheetDefaultTheme" />
+124-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:31:13-66
+125        <activity
+125-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:32:9-35:69
+126            android:name="com.stripe.android.paymentsheet.paymentdatacollection.polling.PollingActivity"
+126-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:33:13-105
+127            android:exported="false"
+127-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:34:13-37
+128            android:theme="@style/StripePaymentSheetDefaultTheme" />
+128-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:35:13-66
+129        <activity
+129-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:36:9-39:69
+130            android:name="com.stripe.android.paymentsheet.ui.SepaMandateActivity"
+130-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:37:13-82
+131            android:exported="false"
+131-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:38:13-37
+132            android:theme="@style/StripePaymentSheetDefaultTheme" />
+132-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:39:13-66
+133        <activity
+133-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:40:9-43:68
+134            android:name="com.stripe.android.paymentsheet.ExternalPaymentMethodProxyActivity"
+134-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:41:13-94
+135            android:exported="false"
+135-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:42:13-37
+136            android:theme="@style/StripePayLauncherDefaultTheme" />
+136-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:43:13-65
+137        <activity
+137-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:44:9-47:58
+138            android:name="com.stripe.android.paymentsheet.paymentdatacollection.cvcrecollection.CvcRecollectionActivity"
+138-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:45:13-121
+139            android:theme="@style/StripePaymentSheetDefaultTheme"
+139-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:46:13-66
+140            android:windowSoftInputMode="adjustResize" />
+140-->[com.stripe:paymentsheet:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/db06d667ccde01ae089e232bf6ee4dbd/transformed/paymentsheet-20.44.1/AndroidManifest.xml:47:13-55
+141        <activity
+141-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:8:9-13:61
+142            android:name="com.stripe.android.link.LinkForegroundActivity"
+142-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:9:13-74
+143            android:autoRemoveFromRecents="true"
+143-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:10:13-49
+144            android:configChanges="orientation|keyboard|keyboardHidden|screenLayout|screenSize|smallestScreenSize"
+144-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:11:13-115
+145            android:launchMode="singleTop"
+145-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:12:13-43
+146            android:theme="@style/StripeTransparentTheme" />
+146-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:13:13-58
+147        <activity
+147-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:14:9-31:20
+148            android:name="com.stripe.android.link.LinkRedirectHandlerActivity"
+148-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:15:13-79
+149            android:autoRemoveFromRecents="true"
+149-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:16:13-49
+150            android:exported="true"
+150-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:17:13-36
+151            android:launchMode="singleInstance"
+151-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:18:13-48
+152            android:theme="@style/StripeTransparentTheme" >
+152-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:19:13-58
+153            <intent-filter>
+153-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:20:13-30:29
+154                <action android:name="android.intent.action.VIEW" />
+154-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:21:17-69
+154-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:21:25-66
+155
+156                <category android:name="android.intent.category.DEFAULT" />
+156-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:23:17-76
+156-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:23:27-73
+157                <category android:name="android.intent.category.BROWSABLE" />
+157-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:24:17-78
+157-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:24:27-75
+158
+159                <data
+159-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:26:17-29:51
+160                    android:host="complete"
+160-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:27:21-44
+161                    android:path="/com.DefaultCompany.StripeSDKEmptyTest"
+161-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:28:21-53
+162                    android:scheme="link-popup" />
+162-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:29:21-48
+163            </intent-filter>
+164        </activity>
+165        <activity
+165-->[com.stripe:payments-ui-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/fd0488339ab111e02e29a0faa6b8f80f/transformed/payments-ui-core-20.44.1/AndroidManifest.xml:8:9-11:69
+166            android:name="com.stripe.android.ui.core.cardscan.CardScanActivity"
+166-->[com.stripe:payments-ui-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/fd0488339ab111e02e29a0faa6b8f80f/transformed/payments-ui-core-20.44.1/AndroidManifest.xml:9:13-80
+167            android:exported="false"
+167-->[com.stripe:payments-ui-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/fd0488339ab111e02e29a0faa6b8f80f/transformed/payments-ui-core-20.44.1/AndroidManifest.xml:10:13-37
+168            android:theme="@style/StripePaymentSheetDefaultTheme" />
+168-->[com.stripe:payments-ui-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/fd0488339ab111e02e29a0faa6b8f80f/transformed/payments-ui-core-20.44.1/AndroidManifest.xml:11:13-66
+169        <activity
+169-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:15:9-18:57
+170            android:name="com.stripe.android.view.AddPaymentMethodActivity"
+170-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:16:13-76
+171            android:exported="false"
+171-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:17:13-37
+172            android:theme="@style/StripeDefaultTheme" />
+172-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:18:13-54
+173        <activity
+173-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:19:9-22:57
+174            android:name="com.stripe.android.view.PaymentMethodsActivity"
+174-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:20:13-74
+175            android:exported="false"
+175-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:21:13-37
+176            android:theme="@style/StripeDefaultTheme" />
+176-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:22:13-54
+177        <activity
+177-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:23:9-26:57
+178            android:name="com.stripe.android.view.PaymentFlowActivity"
+178-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:24:13-71
+179            android:exported="false"
+179-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:25:13-37
+180            android:theme="@style/StripeDefaultTheme" />
+180-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:26:13-54
+181        <activity
+181-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:27:9-31:58
+182            android:name="com.stripe.android.view.PaymentAuthWebViewActivity"
+182-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:28:13-78
+183            android:exported="false"
+183-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:29:13-37
+184            android:theme="@style/StripeDefaultTheme"
+184-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:30:13-54
+185            android:windowSoftInputMode="adjustResize" />
+185-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:31:13-55
+186        <activity
+186-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:32:9-35:61
+187            android:name="com.stripe.android.view.PaymentRelayActivity"
+187-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:33:13-72
+188            android:exported="false"
+188-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:34:13-37
+189            android:theme="@style/StripeTransparentTheme" />
+189-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:35:13-58
+190        <!--
+191        Set android:launchMode="singleTop" so that the StripeBrowserLauncherActivity instance that
+192        launched the browser Activity will also handle the return URL deep link.
+193        -->
+194        <activity
+194-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:41:9-45:61
+195            android:name="com.stripe.android.payments.StripeBrowserLauncherActivity"
+195-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:42:13-85
+196            android:exported="false"
+196-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:43:13-37
+197            android:launchMode="singleTask"
+197-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:44:13-44
+198            android:theme="@style/StripeTransparentTheme" />
+198-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:45:13-58
+199        <activity
+199-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:46:9-63:20
+200            android:name="com.stripe.android.payments.StripeBrowserProxyReturnActivity"
+200-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:47:13-88
+201            android:exported="true"
+201-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:48:13-36
+202            android:launchMode="singleTask"
+202-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:49:13-44
+203            android:theme="@style/StripeTransparentTheme" >
+203-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:50:13-58
+204            <intent-filter>
+204-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:51:13-62:29
+205                <action android:name="android.intent.action.VIEW" />
+205-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:21:17-69
+205-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:21:25-66
+206
+207                <category android:name="android.intent.category.DEFAULT" />
+207-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:23:17-76
+207-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:23:27-73
+208                <category android:name="android.intent.category.BROWSABLE" />
+208-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:24:17-78
+208-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:24:27-75
+209
+210                <!-- Must match `DefaultReturnUrl#value`. -->
+211                <data
+211-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:26:17-29:51
+212                    android:host="payment_return_url"
+212-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:27:21-44
+213                    android:path="/com.DefaultCompany.StripeSDKEmptyTest"
+213-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:28:21-53
+214                    android:scheme="stripesdk" />
+214-->[com.stripe:link:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d11eec2b4068d298410e3fd152286538/transformed/link-20.44.1/AndroidManifest.xml:29:21-48
+215            </intent-filter>
+216        </activity>
+217        <activity
+217-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:64:9-67:57
+218            android:name="com.stripe.android.payments.core.authentication.threeds2.Stripe3ds2TransactionActivity"
+218-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:65:13-114
+219            android:exported="false"
+219-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:66:13-37
+220            android:theme="@style/StripeDefaultTheme" />
+220-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:67:13-54
+221        <activity
+221-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:68:9-71:66
+222            android:name="com.stripe.android.googlepaylauncher.GooglePayLauncherActivity"
+222-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:69:13-90
+223            android:exported="false"
+223-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:70:13-37
+224            android:theme="@style/StripeGooglePayDefaultTheme" />
+224-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:71:13-63
+225        <activity
+225-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:72:9-75:66
+226            android:name="com.stripe.android.googlepaylauncher.GooglePayPaymentMethodLauncherActivity"
+226-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:73:13-103
+227            android:exported="false"
+227-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:74:13-37
+228            android:theme="@style/StripeGooglePayDefaultTheme" />
+228-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:75:13-63
+229        <activity
+229-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:76:9-79:68
+230            android:name="com.stripe.android.payments.paymentlauncher.PaymentLauncherConfirmationActivity"
+230-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:77:13-107
+231            android:exported="false"
+231-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:78:13-37
+232            android:theme="@style/StripePayLauncherDefaultTheme" />
+232-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:79:13-65
+233        <activity
+233-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:80:9-83:61
+234            android:name="com.stripe.android.payments.bankaccount.ui.CollectBankAccountActivity"
+234-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:81:13-97
+235            android:exported="false"
+235-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:82:13-37
+236            android:theme="@style/StripeTransparentTheme" />
+236-->[com.stripe:payments-core:20.44.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/AndroidManifest.xml:83:13-58
+237        <activity
+237-->[com.stripe:stripe-3ds2-android:6.1.8] /Users/vadympyrozhok/.gradle/caches/transforms-4/1efa9f1e94a989cee02497b6fafe3dce/transformed/stripe-3ds2-android-6.1.8/AndroidManifest.xml:8:9-11:54
+238            android:name="com.stripe.android.stripe3ds2.views.ChallengeActivity"
+238-->[com.stripe:stripe-3ds2-android:6.1.8] /Users/vadympyrozhok/.gradle/caches/transforms-4/1efa9f1e94a989cee02497b6fafe3dce/transformed/stripe-3ds2-android-6.1.8/AndroidManifest.xml:9:13-81
+239            android:exported="false"
+239-->[com.stripe:stripe-3ds2-android:6.1.8] /Users/vadympyrozhok/.gradle/caches/transforms-4/1efa9f1e94a989cee02497b6fafe3dce/transformed/stripe-3ds2-android-6.1.8/AndroidManifest.xml:10:13-37
+240            android:theme="@style/Stripe3DS2Theme" /> <!-- Needs to be explicitly declared on P+ -->
+240-->[com.stripe:stripe-3ds2-android:6.1.8] /Users/vadympyrozhok/.gradle/caches/transforms-4/1efa9f1e94a989cee02497b6fafe3dce/transformed/stripe-3ds2-android-6.1.8/AndroidManifest.xml:11:13-51
+241        <uses-library
+241-->[com.google.android.gms:play-services-maps:18.0.2] /Users/vadympyrozhok/.gradle/caches/transforms-4/24aff1be4fe6b5e45f50a2d24e05f6a1/transformed/play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+242            android:name="org.apache.http.legacy"
+242-->[com.google.android.gms:play-services-maps:18.0.2] /Users/vadympyrozhok/.gradle/caches/transforms-4/24aff1be4fe6b5e45f50a2d24e05f6a1/transformed/play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+243            android:required="false" />
+243-->[com.google.android.gms:play-services-maps:18.0.2] /Users/vadympyrozhok/.gradle/caches/transforms-4/24aff1be4fe6b5e45f50a2d24e05f6a1/transformed/play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+244
+245        <activity
+245-->[com.google.android.gms:play-services-base:18.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/626171f8c83e7387e8bceee2b696c7e2/transformed/play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
+246            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+246-->[com.google.android.gms:play-services-base:18.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/626171f8c83e7387e8bceee2b696c7e2/transformed/play-services-base-18.3.0/AndroidManifest.xml:20:19-85
+247            android:exported="false"
+247-->[com.google.android.gms:play-services-base:18.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/626171f8c83e7387e8bceee2b696c7e2/transformed/play-services-base-18.3.0/AndroidManifest.xml:22:19-43
+248            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+248-->[com.google.android.gms:play-services-base:18.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/626171f8c83e7387e8bceee2b696c7e2/transformed/play-services-base-18.3.0/AndroidManifest.xml:21:19-78
+249
+250        <provider
+250-->[androidx.emoji2:emoji2:1.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/e4a8ff4d5739a4db14a039c77fb1d2e6/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+251            android:name="androidx.startup.InitializationProvider"
+251-->[androidx.emoji2:emoji2:1.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/e4a8ff4d5739a4db14a039c77fb1d2e6/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+252            android:authorities="com.DefaultCompany.StripeSDKEmptyTest.androidx-startup"
+252-->[androidx.emoji2:emoji2:1.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/e4a8ff4d5739a4db14a039c77fb1d2e6/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+253            android:exported="false" >
+253-->[androidx.emoji2:emoji2:1.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/e4a8ff4d5739a4db14a039c77fb1d2e6/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+254            <meta-data
+254-->[androidx.emoji2:emoji2:1.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/e4a8ff4d5739a4db14a039c77fb1d2e6/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+255                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+255-->[androidx.emoji2:emoji2:1.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/e4a8ff4d5739a4db14a039c77fb1d2e6/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+256                android:value="androidx.startup" />
+256-->[androidx.emoji2:emoji2:1.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/e4a8ff4d5739a4db14a039c77fb1d2e6/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+257            <meta-data
+257-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/80e4455ffabe4c20aead9c849ddcf1fc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+258                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+258-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/80e4455ffabe4c20aead9c849ddcf1fc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+259                android:value="androidx.startup" />
+259-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/80e4455ffabe4c20aead9c849ddcf1fc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+260            <meta-data
+260-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+261                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+261-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+262                android:value="androidx.startup" />
+262-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+263        </provider>
+264
+265        <meta-data
+265-->[com.google.android.gms:play-services-basement:18.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/a44335ebb4723a00aaab195363fd81a8/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+266            android:name="com.google.android.gms.version"
+266-->[com.google.android.gms:play-services-basement:18.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/a44335ebb4723a00aaab195363fd81a8/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+267            android:value="@integer/google_play_services_version" />
+267-->[com.google.android.gms:play-services-basement:18.3.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/a44335ebb4723a00aaab195363fd81a8/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+268
+269        <receiver
+269-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+270            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+270-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+271            android:directBootAware="false"
+271-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+272            android:enabled="true"
+272-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+273            android:exported="true"
+273-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+274            android:permission="android.permission.DUMP" >
+274-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+275            <intent-filter>
+275-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+276                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+276-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+276-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+277            </intent-filter>
+278            <intent-filter>
+278-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+279                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+279-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+279-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+280            </intent-filter>
+281            <intent-filter>
+281-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+282                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+282-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+282-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+283            </intent-filter>
+284            <intent-filter>
+284-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+285                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+285-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+285-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vadympyrozhok/.gradle/caches/transforms-4/3177521ba1f36414eda011324c3ba10a/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+286            </intent-filter>
+287        </receiver>
+288
+289        <meta-data
+289-->[com.google.android.instantapps:instantapps:1.1.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/ac21ee05ddcecf6f7bcfb01debf28279/transformed/instantapps-1.1.0/AndroidManifest.xml:10:9-12:33
+290            android:name="aia-compat-api-min-version"
+290-->[com.google.android.instantapps:instantapps:1.1.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/ac21ee05ddcecf6f7bcfb01debf28279/transformed/instantapps-1.1.0/AndroidManifest.xml:11:13-54
+291            android:value="1" />
+291-->[com.google.android.instantapps:instantapps:1.1.0] /Users/vadympyrozhok/.gradle/caches/transforms-4/ac21ee05ddcecf6f7bcfb01debf28279/transformed/instantapps-1.1.0/AndroidManifest.xml:12:13-30
+292    </application>
+293
+294</manifest>

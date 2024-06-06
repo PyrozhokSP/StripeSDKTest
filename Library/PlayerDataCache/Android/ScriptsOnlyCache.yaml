@@ -6,7 +6,6 @@ ScriptsOnlyBuild:
     - SimpleClassTest
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.RiderScriptEditorData
-    - Packages.Rider.Editor.RiderScriptEditorPersistedState
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro:
     - TMPro.TMP_FontAsset
@@ -89,8 +88,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -110,21 +107,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 18176}
     - Class: 114
-      Script: {instanceID: 19154}
+      Script: {instanceID: 19156}
     - Class: 114
-      Script: {instanceID: 19404}
+      Script: {instanceID: 19406}
     - Class: 114
-      Script: {instanceID: 20094}
+      Script: {instanceID: 20096}
     - Class: 114
-      Script: {instanceID: 20638}
+      Script: {instanceID: 20642}
     - Class: 114
-      Script: {instanceID: 20788}
+      Script: {instanceID: 20792}
     - Class: 114
-      Script: {instanceID: 21000}
+      Script: {instanceID: 21004}
     - Class: 114
-      Script: {instanceID: 21104}
+      Script: {instanceID: 21108}
     - Class: 114
-      Script: {instanceID: 23308}
+      Script: {instanceID: 22250}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -924,6 +921,12 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
+      Hash: 8ec1b56f4804903d05baca05da7631d8
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SimpleClassTest
+  - hash:
+      serializedVersion: 2
       Hash: 9a174471d4db2c0c6d3ac47d2f818db1
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -994,13 +997,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 8ec1b56f4804903d05baca05da7631d8
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: SimpleClassTest
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/vadympyrozhok/Projects/StripeSDKTest/tttttt.apk
+  playerPath: /Users/vadympyrozhok/Desktop/tttt.apk

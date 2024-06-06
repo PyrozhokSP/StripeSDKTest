@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.StripeSDKEmptyTest.launcher-mergeDebugResources-81:/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/vadympyrozhok/.gradle/caches/transforms-4/d281d255a8746a55ac82ce23a6859187/transformed/payments-core-20.44.1/res/values-mdpi-v4/values-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

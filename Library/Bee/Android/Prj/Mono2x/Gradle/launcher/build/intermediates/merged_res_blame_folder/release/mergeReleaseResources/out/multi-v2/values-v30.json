@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.DefaultCompany.StripeSDKEmptyTest.launcher-mergeReleaseResources-2:/values-v30/values-v30.xml",
+            "outputFile": "com.DefaultCompany.StripeSDKEmptyTest.launcher-mergeReleaseResources-82:/values-v30/values-v30.xml",
             "map": [
                 {
                     "source": "/Users/vadympyrozhok/Projects/StripeSDKTest/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/packageReleaseResources/values-v30/values-v30.xml",

@@ -387,14 +387,23 @@
     <Reference Include="ReportGeneratorMerged">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
+    <Reference Include="Google.PackageManagerResolver">
+      <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Assets/ExternalDependencyManager/Editor/1.2.179/Google.PackageManagerResolver.dll</HintPath>
+    </Reference>
     <Reference Include="unityplastic">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Google.IOSResolver">
+      <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Assets/ExternalDependencyManager/Editor/1.2.179/Google.IOSResolver.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.VersionHandlerImpl">
+      <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Assets/ExternalDependencyManager/Editor/1.2.179/Google.VersionHandlerImpl.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
@@ -402,11 +411,17 @@
     <Reference Include="Unity.VisualScripting.IonicZip">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
+    <Reference Include="Google.JarResolver">
+      <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Assets/ExternalDependencyManager/Editor/1.2.179/Google.JarResolver.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.VersionHandler">
+      <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>/Users/vadympyrozhok/Projects/StripeSDKTest/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>

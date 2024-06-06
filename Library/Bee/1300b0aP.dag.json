@@ -135,15 +135,7 @@
         127,
         128,
         129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136,
-        137,
-        138
+        130
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 0
@@ -166,7 +158,7 @@
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 243,
-      "PayloadLength": 43498,
+      "PayloadLength": 42446,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -178,7 +170,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 43835,
+      "PayloadOffset": 42783,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/vadympyrozhok",
       "Inputs": [],
@@ -199,7 +191,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
@@ -229,9 +220,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
@@ -250,12 +238,8 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -505,7 +489,7 @@
         1,
         2,
         3,
-        71
+        63
       ],
       "ToUseDependencies": [
         1,
@@ -601,21 +585,21 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
         68,
-        69,
-        76,
-        83,
-        102,
+        75,
+        94,
+        101,
+        108,
         109,
+        110,
+        113,
+        114,
+        115,
         116,
         117,
         118,
+        119,
+        120,
         121,
         122,
         123,
@@ -623,15 +607,7 @@
         125,
         126,
         127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
+        128
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 6
@@ -727,21 +703,6 @@
       "DebugActionIndex": 12
     },
     {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEngine.ClothModule.dll_0E6D29788F0E503C",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll\"",
-      "Inputs": [
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 13
-    },
-    {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
       "DisplayName": "MovedFromExtractor UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1",
       "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll\"",
@@ -754,7 +715,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 14
+      "DebugActionIndex": 13
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
@@ -769,7 +730,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 15
+      "DebugActionIndex": 14
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -784,7 +745,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 16
+      "DebugActionIndex": 15
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.DirectorModule.dll_0D80517FBE2F912E.mvfrm",
@@ -799,7 +760,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 17
+      "DebugActionIndex": 16
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.dll_5D3EEBDC4A00F9F4.mvfrm",
@@ -814,7 +775,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 18
+      "DebugActionIndex": 17
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.DSPGraphModule.dll_12D1B2E93090624F.mvfrm",
@@ -829,7 +790,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 19
+      "DebugActionIndex": 18
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.GameCenterModule.dll_6A46AE76EF8554E9.mvfrm",
@@ -844,7 +805,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 20
+      "DebugActionIndex": 19
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.GIModule.dll_0623B268753DE954.mvfrm",
@@ -859,7 +820,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 21
+      "DebugActionIndex": 20
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.GridModule.dll_1406945658352CC8.mvfrm",
@@ -874,7 +835,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 22
+      "DebugActionIndex": 21
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.HotReloadModule.dll_0DCE932892FD1568.mvfrm",
@@ -889,7 +850,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 23
+      "DebugActionIndex": 22
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.ImageConversionModule.dll_3087050395BB0273.mvfrm",
@@ -904,7 +865,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 24
+      "DebugActionIndex": 23
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.IMGUIModule.dll_DFE46BE47B230539.mvfrm",
@@ -919,7 +880,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 25
+      "DebugActionIndex": 24
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.InputLegacyModule.dll_E2F5F28C98569FC5.mvfrm",
@@ -934,7 +895,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 26
+      "DebugActionIndex": 25
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.InputModule.dll_0DFA942E2B2995FC.mvfrm",
@@ -949,7 +910,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 27
+      "DebugActionIndex": 26
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_11A64D41626D4BCA.mvfrm",
@@ -964,7 +925,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 28
+      "DebugActionIndex": 27
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_66A3D0EE5283731B.mvfrm",
@@ -979,7 +940,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 29
+      "DebugActionIndex": 28
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_5E05FE3833E4A297.mvfrm",
@@ -994,7 +955,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 30
+      "DebugActionIndex": 29
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.PerformanceReportingModule.dll_23FBD87EBC313C90.mvfrm",
@@ -1009,7 +970,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 31
+      "DebugActionIndex": 30
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.Physics2DModule.dll_D92BC51358C6F17B.mvfrm",
@@ -1024,7 +985,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 32
+      "DebugActionIndex": 31
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.PhysicsModule.dll_3CC69AAE3B433729.mvfrm",
@@ -1039,7 +1000,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 33
+      "DebugActionIndex": 32
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.ProfilerModule.dll_3FC68AB65789183B.mvfrm",
@@ -1054,7 +1015,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 34
+      "DebugActionIndex": 33
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.PropertiesModule.dll_9781EDB56270B925.mvfrm",
@@ -1069,7 +1030,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 35
+      "DebugActionIndex": 34
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_BFD49D850BABD844.mvfrm",
@@ -1084,7 +1045,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 36
+      "DebugActionIndex": 35
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.ScreenCaptureModule.dll_2B8DFAC676D9782C.mvfrm",
@@ -1099,7 +1060,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 37
+      "DebugActionIndex": 36
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.SharedInternalsModule.dll_B49843D90CE8FDC3.mvfrm",
@@ -1114,7 +1075,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 38
+      "DebugActionIndex": 37
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteMaskModule.dll_5373210710F4EA63.mvfrm",
@@ -1129,7 +1090,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 39
+      "DebugActionIndex": 38
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
@@ -1144,7 +1105,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 40
+      "DebugActionIndex": 39
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
@@ -1159,7 +1120,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 41
+      "DebugActionIndex": 40
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
@@ -1174,52 +1135,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 42
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEngine.SubsystemsModule.dll_BE208768DF3CD276",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll\"",
-      "Inputs": [
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 43
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEngine.TerrainModule.dll_570D161D11018017",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll\"",
-      "Inputs": [
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 44
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll\"",
-      "Inputs": [
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 45
+      "DebugActionIndex": 41
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
@@ -1234,7 +1150,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 46
+      "DebugActionIndex": 42
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
@@ -1249,7 +1165,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 47
+      "DebugActionIndex": 43
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -1264,7 +1180,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 48
+      "DebugActionIndex": 44
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.TilemapModule.dll_F6097D9E28BE6120.mvfrm",
@@ -1279,7 +1195,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 49
+      "DebugActionIndex": 45
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.TLSModule.dll_AB84D555F70215BD.mvfrm",
@@ -1294,7 +1210,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 50
+      "DebugActionIndex": 46
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UIElementsModule.dll_C25EE8D0E2690E6D.mvfrm",
@@ -1309,7 +1225,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 51
+      "DebugActionIndex": 47
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UIModule.dll_695B078835D606E6.mvfrm",
@@ -1324,7 +1240,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 52
+      "DebugActionIndex": 48
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UmbraModule.dll_2259789642181CCB.mvfrm",
@@ -1339,7 +1255,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 53
+      "DebugActionIndex": 49
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsCommonModule.dll_BF3A95C2D619DAEE.mvfrm",
@@ -1354,7 +1270,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 54
+      "DebugActionIndex": 50
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsModule.dll_7DA56F01E00BF493.mvfrm",
@@ -1369,7 +1285,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 55
+      "DebugActionIndex": 51
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityConnectModule.dll_961A15950407AE07.mvfrm",
@@ -1384,7 +1300,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 56
+      "DebugActionIndex": 52
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityCurlModule.dll_BFA2765427DDEBD3.mvfrm",
@@ -1399,7 +1315,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 57
+      "DebugActionIndex": 53
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityTestProtocolModule.dll_8520220AB25CE9C1.mvfrm",
@@ -1414,7 +1330,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 58
+      "DebugActionIndex": 54
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAssetBundleModule.dll_5C78737FDD2CCDA4.mvfrm",
@@ -1429,7 +1345,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 59
+      "DebugActionIndex": 55
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAudioModule.dll_9BF82C5D429C0728.mvfrm",
@@ -1444,7 +1360,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 60
+      "DebugActionIndex": 56
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
@@ -1459,7 +1375,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 61
+      "DebugActionIndex": 57
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
@@ -1474,7 +1390,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 62
+      "DebugActionIndex": 58
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
@@ -1489,22 +1405,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 63
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEngine.VehiclesModule.dll_85434AFF385960C9",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll\"",
-      "Inputs": [
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 64
+      "DebugActionIndex": 59
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
@@ -1519,7 +1420,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 65
+      "DebugActionIndex": 60
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
@@ -1534,65 +1435,20 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 66
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEngine.VRModule.dll_BC2D2E0DD7908C5E",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll\"",
-      "Inputs": [
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 67
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEngine.WindModule.dll_ACE45390D117153A",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll\"",
-      "Inputs": [
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 68
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEngine.XRModule.dll_EEEBF11260CAD9BC",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm\" \"/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll\"",
-      "Inputs": [
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 69
+      "DebugActionIndex": 61
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 43994,
-      "PayloadLength": 5460,
+      "PayloadOffset": 42942,
+      "PayloadLength": 4808,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 70
+      "DebugActionIndex": 62
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1300b0aP.dag/UnityEngine.TestRunner.dll.mvfrm",
@@ -1606,7 +1462,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_275A2E5E36AC6003.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_51B0D76E0064E9D4.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_A784CC7DB4F17158.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -1636,9 +1491,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -1657,12 +1509,8 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp"
       ],
@@ -1726,58 +1574,50 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
-        68,
-        69,
-        70
+        62
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 71
+      "DebugActionIndex": 63
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 49559,
+      "PayloadOffset": 47855,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/Users/vadympyrozhok/Projects/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 72
+      "DebugActionIndex": 64
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 49687,
-      "PayloadLength": 37066,
+      "PayloadOffset": 47983,
+      "PayloadLength": 36014,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.rsp"
       ],
-      "DebugActionIndex": 73
+      "DebugActionIndex": 65
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 86839,
+      "PayloadOffset": 84083,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/vadympyrozhok",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.rsp2"
       ],
-      "DebugActionIndex": 74
+      "DebugActionIndex": 66
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.dll (+2 others)",
@@ -1791,7 +1631,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
@@ -1821,9 +1660,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
@@ -1842,12 +1678,8 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -2066,14 +1898,14 @@
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
       ],
       "ToBuildDependencies": [
-        72,
-        73,
-        74,
-        78
+        64,
+        65,
+        66,
+        70
       ],
       "ToUseDependencies": [
-        72,
-        74
+        64,
+        66
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.rsp"
@@ -2086,7 +1918,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 75
+      "DebugActionIndex": 67
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm",
@@ -2101,20 +1933,20 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 76
+      "DebugActionIndex": 68
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 86990,
-      "PayloadLength": 5553,
+      "PayloadOffset": 84234,
+      "PayloadLength": 4901,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 77
+      "DebugActionIndex": 69
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.dll.mvfrm",
@@ -2128,7 +1960,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_275A2E5E36AC6003.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_51B0D76E0064E9D4.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_A784CC7DB4F17158.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -2158,9 +1989,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -2179,12 +2007,8 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp"
@@ -2249,59 +2073,51 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
         68,
-        69,
-        76,
-        77
+        69
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 78
+      "DebugActionIndex": 70
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 92651,
+      "PayloadOffset": 89243,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/Users/vadympyrozhok/Projects/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 79
+      "DebugActionIndex": 71
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 92782,
-      "PayloadLength": 35120,
+      "PayloadOffset": 89374,
+      "PayloadLength": 34068,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.rsp"
       ],
-      "DebugActionIndex": 80
+      "DebugActionIndex": 72
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 127991,
+      "PayloadOffset": 123531,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/vadympyrozhok",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.rsp2"
       ],
-      "DebugActionIndex": 81
+      "DebugActionIndex": 73
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.dll (+2 others)",
@@ -2315,7 +2131,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
@@ -2345,9 +2160,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
@@ -2366,12 +2178,8 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -2565,15 +2373,15 @@
         "Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.ref.dll"
       ],
       "ToBuildDependencies": [
-        75,
-        79,
-        80,
-        81,
-        85
+        67,
+        71,
+        72,
+        73,
+        77
       ],
       "ToUseDependencies": [
-        79,
-        81
+        71,
+        73
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.rsp"
@@ -2586,7 +2394,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 82
+      "DebugActionIndex": 74
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_AFC2E85BC2EDBC0B.mvfrm",
@@ -2600,24 +2408,24 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_AFC2E85BC2EDBC0B.mvfrm"
       ],
       "ToBuildDependencies": [
-        75
+        67
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 83
+      "DebugActionIndex": 75
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 128145,
-      "PayloadLength": 5628,
+      "PayloadOffset": 123685,
+      "PayloadLength": 4976,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 84
+      "DebugActionIndex": 76
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.dll.mvfrm",
@@ -2632,7 +2440,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_275A2E5E36AC6003.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_51B0D76E0064E9D4.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_A784CC7DB4F17158.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -2662,9 +2469,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -2683,12 +2487,8 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp"
@@ -2753,60 +2553,52 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
         68,
-        69,
-        76,
-        83,
-        84
+        75,
+        76
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 85
+      "DebugActionIndex": 77
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 133878,
+      "PayloadOffset": 128766,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/Users/vadympyrozhok/Projects/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 86
+      "DebugActionIndex": 78
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 134006,
-      "PayloadLength": 36189,
+      "PayloadOffset": 128894,
+      "PayloadLength": 35137,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.rsp"
       ],
-      "DebugActionIndex": 87
+      "DebugActionIndex": 79
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 170281,
+      "PayloadOffset": 164117,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/vadympyrozhok",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.rsp2"
       ],
-      "DebugActionIndex": 88
+      "DebugActionIndex": 80
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.dll (+2 others)",
@@ -2820,7 +2612,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
@@ -2850,9 +2641,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
@@ -2871,12 +2659,8 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -3084,15 +2868,15 @@
         "Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.ref.dll"
       ],
       "ToBuildDependencies": [
-        75,
-        86,
-        87,
-        88,
-        91
+        67,
+        78,
+        79,
+        80,
+        83
       ],
       "ToUseDependencies": [
-        86,
-        88
+        78,
+        80
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.rsp"
@@ -3105,20 +2889,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 89
+      "DebugActionIndex": 81
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 170432,
-      "PayloadLength": 5628,
+      "PayloadOffset": 164268,
+      "PayloadLength": 4976,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 90
+      "DebugActionIndex": 82
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.dll.mvfrm",
@@ -3133,7 +2917,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_275A2E5E36AC6003.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_51B0D76E0064E9D4.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_A784CC7DB4F17158.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -3163,9 +2946,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -3184,12 +2964,8 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.dll.mvfrm.rsp"
@@ -3254,60 +3030,52 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
         68,
-        69,
-        76,
-        83,
-        90
+        75,
+        82
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 91
+      "DebugActionIndex": 83
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 176177,
+      "PayloadOffset": 169361,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/Users/vadympyrozhok/Projects/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 92
+      "DebugActionIndex": 84
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 176317,
-      "PayloadLength": 83684,
+      "PayloadOffset": 169501,
+      "PayloadLength": 82632,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.rsp"
       ],
-      "DebugActionIndex": 93
+      "DebugActionIndex": 85
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 260099,
+      "PayloadOffset": 252231,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/vadympyrozhok",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.rsp2"
       ],
-      "DebugActionIndex": 94
+      "DebugActionIndex": 86
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.dll (+2 others)",
@@ -3321,7 +3089,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
@@ -3351,9 +3118,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
@@ -3372,12 +3136,8 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -3941,15 +3701,15 @@
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.ref.dll"
       ],
       "ToBuildDependencies": [
-        75,
-        92,
-        93,
-        94,
-        97
+        67,
+        84,
+        85,
+        86,
+        89
       ],
       "ToUseDependencies": [
-        92,
-        94
+        84,
+        86
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.rsp"
@@ -3962,20 +3722,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 95
+      "DebugActionIndex": 87
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 260262,
-      "PayloadLength": 5628,
+      "PayloadOffset": 252394,
+      "PayloadLength": 4976,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 96
+      "DebugActionIndex": 88
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm",
@@ -3990,7 +3750,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_275A2E5E36AC6003.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_51B0D76E0064E9D4.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_A784CC7DB4F17158.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -4020,9 +3779,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -4041,12 +3797,8 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp"
@@ -4111,60 +3863,52 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
         68,
-        69,
-        76,
-        83,
-        96
+        75,
+        88
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 97
+      "DebugActionIndex": 89
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 266007,
+      "PayloadOffset": 257487,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/Users/vadympyrozhok/Projects/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 98
+      "DebugActionIndex": 90
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 266147,
-      "PayloadLength": 78987,
+      "PayloadOffset": 257627,
+      "PayloadLength": 77935,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.rsp"
       ],
-      "DebugActionIndex": 99
+      "DebugActionIndex": 91
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 345232,
+      "PayloadOffset": 335660,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/vadympyrozhok",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.rsp2"
       ],
-      "DebugActionIndex": 100
+      "DebugActionIndex": 92
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.dll (+2 others)",
@@ -4178,7 +3922,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
@@ -4208,9 +3951,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
@@ -4229,12 +3969,8 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -4772,16 +4508,16 @@
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.ref.dll"
       ],
       "ToBuildDependencies": [
-        75,
-        95,
-        98,
-        99,
-        100,
-        104
+        67,
+        87,
+        90,
+        91,
+        92,
+        96
       ],
       "ToUseDependencies": [
-        98,
-        100
+        90,
+        92
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.rsp"
@@ -4794,7 +4530,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 101
+      "DebugActionIndex": 93
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Core.ref.dll_0FD4FE2CDCC99BDF.mvfrm",
@@ -4808,24 +4544,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Core.ref.dll_0FD4FE2CDCC99BDF.mvfrm"
       ],
       "ToBuildDependencies": [
-        95
+        87
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 102
+      "DebugActionIndex": 94
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 345395,
-      "PayloadLength": 5715,
+      "PayloadOffset": 335823,
+      "PayloadLength": 5063,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 103
+      "DebugActionIndex": 95
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm",
@@ -4841,7 +4577,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_275A2E5E36AC6003.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_51B0D76E0064E9D4.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_A784CC7DB4F17158.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -4871,9 +4606,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -4892,12 +4624,8 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp"
@@ -4962,61 +4690,53 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
         68,
-        69,
-        76,
-        83,
-        102,
-        103
+        75,
+        94,
+        95
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 104
+      "DebugActionIndex": 96
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 351228,
+      "PayloadOffset": 341004,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/Users/vadympyrozhok/Projects/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 105
+      "DebugActionIndex": 97
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 351369,
-      "PayloadLength": 33366,
+      "PayloadOffset": 341145,
+      "PayloadLength": 32314,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.rsp"
       ],
-      "DebugActionIndex": 106
+      "DebugActionIndex": 98
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 384834,
+      "PayloadOffset": 373558,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/vadympyrozhok",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.rsp2"
       ],
-      "DebugActionIndex": 107
+      "DebugActionIndex": 99
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.dll (+2 others)",
@@ -5030,7 +4750,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
@@ -5060,9 +4779,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
@@ -5081,12 +4797,8 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -5254,17 +4966,17 @@
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.ref.dll"
       ],
       "ToBuildDependencies": [
-        75,
-        95,
-        101,
-        105,
-        106,
-        107,
-        111
+        67,
+        87,
+        93,
+        97,
+        98,
+        99,
+        103
       ],
       "ToUseDependencies": [
-        105,
-        107
+        97,
+        99
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.rsp"
@@ -5277,7 +4989,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 108
+      "DebugActionIndex": 100
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Flow.ref.dll_56E5DE835ED3108E.mvfrm",
@@ -5291,24 +5003,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Flow.ref.dll_56E5DE835ED3108E.mvfrm"
       ],
       "ToBuildDependencies": [
-        101
+        93
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 109
+      "DebugActionIndex": 101
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 384998,
-      "PayloadLength": 5802,
+      "PayloadOffset": 373722,
+      "PayloadLength": 5150,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 110
+      "DebugActionIndex": 102
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.dll.mvfrm",
@@ -5325,7 +5037,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_275A2E5E36AC6003.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_51B0D76E0064E9D4.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_A784CC7DB4F17158.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -5355,9 +5066,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -5376,12 +5084,8 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.dll.mvfrm.rsp"
@@ -5446,62 +5150,54 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
         68,
-        69,
-        76,
-        83,
-        102,
-        109,
-        110
+        75,
+        94,
+        101,
+        102
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 111
+      "DebugActionIndex": 103
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 390906,
+      "PayloadOffset": 378978,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/Users/vadympyrozhok/Projects/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 112
+      "DebugActionIndex": 104
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 391035,
-      "PayloadLength": 30640,
+      "PayloadOffset": 379107,
+      "PayloadLength": 29596,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.rsp"
       ],
-      "DebugActionIndex": 113
+      "DebugActionIndex": 105
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 421762,
+      "PayloadOffset": 408790,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.rsp2"
       ],
-      "DebugActionIndex": 114
+      "DebugActionIndex": 106
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.dll (+2 others)",
@@ -5515,7 +5211,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
@@ -5545,9 +5240,6 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
@@ -5566,12 +5258,8 @@
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll",
-        "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -5701,7 +5389,7 @@
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.ref.dll",
         "Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.ref.dll",
         "Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll",
-        "Assets/SimpleClassTest.cs",
+        "Assets/Scripts/SimpleClassTest.cs",
         "Assets/Unity-Logs-Viewer/Reporter/MultiKeyDictionary.cs",
         "Assets/Unity-Logs-Viewer/Reporter/Reporter.cs",
         "Assets/Unity-Logs-Viewer/Reporter/ReporterGUI.cs",
@@ -5718,20 +5406,20 @@
         "Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.ref.dll"
       ],
       "ToBuildDependencies": [
-        75,
-        82,
-        89,
-        95,
-        101,
-        108,
-        112,
-        113,
-        114,
-        120
+        67,
+        74,
+        81,
+        87,
+        93,
+        100,
+        104,
+        105,
+        106,
+        112
       ],
       "ToUseDependencies": [
-        112,
-        114
+        104,
+        106
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.rsp"
@@ -5743,7 +5431,7 @@
           "Value": "0"
         }
       ],
-      "DebugActionIndex": 115
+      "DebugActionIndex": 107
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.ref.dll_2E746244A5BDAEA0.mvfrm",
@@ -5757,11 +5445,11 @@
         "Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.ref.dll_2E746244A5BDAEA0.mvfrm"
       ],
       "ToBuildDependencies": [
-        82
+        74
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 116
+      "DebugActionIndex": 108
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_08E11C037DD39E3A.mvfrm",
@@ -5775,11 +5463,11 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_08E11C037DD39E3A.mvfrm"
       ],
       "ToBuildDependencies": [
-        89
+        81
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 117
+      "DebugActionIndex": 109
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.ref.dll_A70CD23EFCFC9D47.mvfrm",
@@ -5793,24 +5481,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.ref.dll_A70CD23EFCFC9D47.mvfrm"
       ],
       "ToBuildDependencies": [
-        108
+        100
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 118
+      "DebugActionIndex": 110
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 421858,
-      "PayloadLength": 6043,
+      "PayloadOffset": 408886,
+      "PayloadLength": 5391,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 119
+      "DebugActionIndex": 111
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.dll.mvfrm",
@@ -5830,7 +5518,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_275A2E5E36AC6003.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_51B0D76E0064E9D4.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_A784CC7DB4F17158.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_0E6D29788F0E503C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_EAC730AECEE791C1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_369578683FE096D1.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_0AF3B4EBC5D31709.mvfrm",
@@ -5860,9 +5547,6 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_6B1204C8B60721DE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_411AC2730751B124.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_1DC5D6BC52A4AF32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_BE208768DF3CD276.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_570D161D11018017.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_5E80A70B4D279D24.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_6852C581488DA92F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_B03AFBF2D811624D.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_54CD6CD12E10F821.mvfrm",
@@ -5881,12 +5565,8 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_42260CADA0AF9CF2.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_240D0498131091FD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_7AFD414EC7D11EB9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_85434AFF385960C9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_2C636DC4CD6F7F2A.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_CC8E50E877838CFD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BC2D2E0DD7908C5E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_ACE45390D117153A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_EEEBF11260CAD9BC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm",
         "/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1300b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp"
@@ -5951,26 +5631,18 @@
         59,
         60,
         61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
         68,
-        69,
-        76,
-        83,
-        102,
+        75,
+        94,
+        101,
+        108,
         109,
-        116,
-        117,
-        118,
-        119
+        110,
+        111
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 120
+      "DebugActionIndex": 112
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll",
@@ -5985,7 +5657,7 @@
       "ToBuildDependencies": [
         4
       ],
-      "DebugActionIndex": 121
+      "DebugActionIndex": 113
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.pdb",
@@ -6000,7 +5672,7 @@
       "ToBuildDependencies": [
         4
       ],
-      "DebugActionIndex": 122
+      "DebugActionIndex": 114
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
@@ -6013,9 +5685,9 @@
         "Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "ToBuildDependencies": [
-        75
+        67
       ],
-      "DebugActionIndex": 123
+      "DebugActionIndex": 115
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb",
@@ -6028,9 +5700,9 @@
         "Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
       ],
       "ToBuildDependencies": [
-        75
+        67
       ],
-      "DebugActionIndex": 124
+      "DebugActionIndex": 116
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
@@ -6043,9 +5715,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "ToBuildDependencies": [
-        82
+        74
       ],
-      "DebugActionIndex": 125
+      "DebugActionIndex": 117
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb",
@@ -6058,9 +5730,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
       ],
       "ToBuildDependencies": [
-        82
+        74
       ],
-      "DebugActionIndex": 126
+      "DebugActionIndex": 118
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
@@ -6073,9 +5745,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "ToBuildDependencies": [
-        89
+        81
       ],
-      "DebugActionIndex": 127
+      "DebugActionIndex": 119
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb",
@@ -6088,9 +5760,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
       ],
       "ToBuildDependencies": [
-        89
+        81
       ],
-      "DebugActionIndex": 128
+      "DebugActionIndex": 120
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
@@ -6103,9 +5775,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "ToBuildDependencies": [
-        95
+        87
       ],
-      "DebugActionIndex": 129
+      "DebugActionIndex": 121
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb",
@@ -6118,9 +5790,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
       ],
       "ToBuildDependencies": [
-        95
+        87
       ],
-      "DebugActionIndex": 130
+      "DebugActionIndex": 122
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
@@ -6133,9 +5805,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "ToBuildDependencies": [
-        101
+        93
       ],
-      "DebugActionIndex": 131
+      "DebugActionIndex": 123
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb",
@@ -6148,9 +5820,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
       ],
       "ToBuildDependencies": [
-        101
+        93
       ],
-      "DebugActionIndex": 132
+      "DebugActionIndex": 124
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
@@ -6163,9 +5835,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "ToBuildDependencies": [
-        108
+        100
       ],
-      "DebugActionIndex": 133
+      "DebugActionIndex": 125
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb",
@@ -6178,9 +5850,9 @@
         "Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
       ],
       "ToBuildDependencies": [
-        108
+        100
       ],
-      "DebugActionIndex": 134
+      "DebugActionIndex": 126
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
@@ -6193,9 +5865,9 @@
         "Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "ToBuildDependencies": [
-        115
+        107
       ],
-      "DebugActionIndex": 135
+      "DebugActionIndex": 127
     },
     {
       "Annotation": "CopyFiles Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb",
@@ -6208,9 +5880,9 @@
         "Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
       ],
       "ToBuildDependencies": [
-        115
+        107
       ],
-      "DebugActionIndex": 136
+      "DebugActionIndex": 128
     },
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
@@ -6235,18 +5907,18 @@
         "Library/BuildPlayerData/Player/TypeDb-All.json"
       ],
       "ToBuildDependencies": [
+        113,
+        115,
+        117,
+        119,
         121,
         123,
         125,
-        127,
-        129,
-        131,
-        133,
-        135
+        127
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 137
+      "DebugActionIndex": 129
     },
     {
       "Annotation": "ScriptAssembliesAndTypeDB",
@@ -6255,10 +5927,10 @@
       "Outputs": [],
       "ToBuildDependencies": [
         6,
-        137
+        129
       ],
       "OverwriteOutputs": false,
-      "DebugActionIndex": 138
+      "DebugActionIndex": 130
     }
   ],
   "FileSignatures": [
@@ -6430,7 +6102,7 @@
         "NamedNodes": {
           "all_tundra_nodes": 0,
           "ScriptAssemblies": 6,
-          "ScriptAssembliesAndTypeDB": 138
+          "ScriptAssembliesAndTypeDB": 130
         }
 ,  "DefaultNodes": [
     0

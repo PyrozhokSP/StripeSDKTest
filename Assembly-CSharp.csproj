@@ -46,18 +46,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Unity-Logs-Viewer/Reporter/Test/Rotate.cs" />
+    <Compile Include="Assets/Scripts/SimpleClassTest.cs" />
     <Compile Include="Assets/Unity-Logs-Viewer/Reporter/MultiKeyDictionary.cs" />
     <Compile Include="Assets/Unity-Logs-Viewer/Reporter/Test/TestReporter.cs" />
-    <Compile Include="Assets/SimpleClassTest.cs" />
     <Compile Include="Assets/Unity-Logs-Viewer/Reporter/ReporterGUI.cs" />
     <Compile Include="Assets/Unity-Logs-Viewer/Reporter/ReporterMessageReceiver.cs" />
     <Compile Include="Assets/Unity-Logs-Viewer/Reporter/Reporter.cs" />
     <None Include="Library/PackageCache/com.unity.settings-manager@2.0.1/package.json" />
-    <None Include="Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.json" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
     <None Include="Library/PackageCache/com.unity.modules.jsonserialize@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.modules.screencapture@1.0.0/package.json" />
-    <None Include="Library/PackageCache/com.unity.modules.cloth@1.0.0/package.json" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
     <None Include="Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.modules.ai@1.0.0/package.json" />
@@ -71,7 +69,6 @@
     <None Include="Library/PackageCache/com.unity.timeline@1.7.6/package.json" />
     <None Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.22/ValidationConfig.json" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
-    <None Include="Library/PackageCache/com.unity.modules.terrainphysics@1.0.0/package.json" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
     <None Include="Library/PackageCache/com.unity.visualscripting@1.9.4/package.json" />
     <None Include="Library/PackageCache/com.unity.editorcoroutines@1.0.0/package.json" />
@@ -92,13 +89,11 @@
     <None Include="Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.modules.physics2d@1.0.0/package.json" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
-    <None Include="Library/PackageCache/com.unity.modules.vr@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.visualscripting@1.9.4/ValidationExceptions.json" />
     <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF.shader" />
     <None Include="Library/PackageCache/com.unity.ide.visualstudio@2.0.22/ValidationExceptions.json" />
-    <None Include="Library/PackageCache/com.unity.modules.wind@1.0.0/package.json" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
     <None Include="Library/PackageCache/com.unity.modules.umbra@1.0.0/package.json" />
@@ -106,21 +101,18 @@
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
     <None Include="Library/PackageCache/com.unity.modules.audio@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.modules.physics@1.0.0/package.json" />
-    <None Include="Library/PackageCache/com.unity.modules.vehicles@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/package.json" />
     <None Include="Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0/package.json" />
     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
     <None Include="Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF_SSD.cginc" />
     <None Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/ValidationConfig.json" />
-    <None Include="Library/PackageCache/com.unity.modules.xr@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_Properties.cginc" />
     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF Internal Editor.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
     <None Include="Library/PackageCache/com.unity.modules.director@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.ide.vscode@1.2.5/ValidationExceptions.json" />
     <None Include="Library/PackageCache/com.unity.visualscripting@1.9.4/ValidationConfig.json" />
-    <None Include="Library/PackageCache/com.unity.modules.terrain@1.0.0/package.json" />
     <None Include="Library/PackageCache/com.unity.modules.androidjni@1.0.0/package.json" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/PackageConversionData_Assets.json" />
@@ -157,9 +149,6 @@
     </Reference>
     <Reference Include="UnityEngine.AudioModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AudioModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.ClothModule">
-      <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ContentLoadModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll</HintPath>
@@ -245,17 +234,8 @@
     <Reference Include="UnityEngine.SubstanceModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubstanceModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.SubsystemsModule">
-      <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.TLSModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TLSModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.TerrainModule">
-      <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.TerrainPhysicsModule">
-      <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextCoreFontEngineModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll</HintPath>
@@ -311,20 +291,8 @@
     <Reference Include="UnityEngine.VFXModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VFXModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.VRModule">
-      <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VRModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.VehiclesModule">
-      <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VehiclesModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.VideoModule">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.WindModule">
-      <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.XRModule">
-      <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.28f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.dll</HintPath>

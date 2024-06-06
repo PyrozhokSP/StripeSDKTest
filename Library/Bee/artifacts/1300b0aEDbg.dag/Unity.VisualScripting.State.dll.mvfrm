@@ -140,14 +140,6 @@ SpriteShapeMetaData
 ShapeControlPoint
 AngleRangeInfo
 SpriteShapeUtility
-TerrainCallbacks
-UnityEngine
-Experimental
-TerrainAPI
-TerrainUtility
-BrushTransform
-PaintContext
-TerrainPaintUtility
 BaseCompositeField<,,>
 UnityEditor
 UIElements

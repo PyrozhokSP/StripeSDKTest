@@ -8,6 +8,19 @@
       jars="/Users/vadympyrozhok/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.24/9928532f12c66ad816a625b3f9984f8368ca6d2b/kotlin-stdlib-1.9.24.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib:1.9.24"/>
   <library
+      name=":stripe.androidlib-release:@aar"
+      jars="/Users/vadympyrozhok/.gradle/caches/transforms-4/e5d8bb864353f4ca478d53d3a6d38115/transformed/stripe.androidlib-release/jars/classes.jar"
+      resolved=":stripe.androidlib-release:"
+      folder="/Users/vadympyrozhok/.gradle/caches/transforms-4/e5d8bb864353f4ca478d53d3a6d38115/transformed/stripe.androidlib-release"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="org.jetbrains:annotations:13.0@jar"
       jars="/Users/vadympyrozhok/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
       resolved="org.jetbrains:annotations:13.0"/>
